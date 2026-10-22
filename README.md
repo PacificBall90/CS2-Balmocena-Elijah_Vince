@@ -8,6 +8,8 @@
 - **Output**: *Prints* the **name**, **total electricity consumption**, and the **cost** of the bill.
 - Does ***not*** include **input validation**.
 
+
+
 ## Version II. With Input Validation
 - **Input**:
     1. **Name**: *Checks* if **name** has a **value**, if not *prints* an **error message** and makes the user *input* again.
